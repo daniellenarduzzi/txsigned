@@ -2,4 +2,8 @@
     "dependencies": {
         "web3": "1.0.0"
     }
+    "scripts": {
+        "tx": "node tx.js",
+        "deploy": "node deploy.js"
+    }
 }
